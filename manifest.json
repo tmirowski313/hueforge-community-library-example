@@ -1,4 +1,13 @@
 {
-  "source_name": "My PLA Collection",
-  "libraries": []
+  "source_name": "F00LY Collection",
+  "libraries": [
+    {
+      "name": "F00LY_library_export",
+      "filename": "F00LY_library_export.json",
+      "category": "community",
+      "url": "https://raw.githubusercontent.com/tmirowski313/hueforge-community-library-example/master/libraries/F00LY_library_export.json",
+      "sha256": "86a2b48531f5e5beed509cc14200f8dcfd30ecc6a55b2463c7341f04fa9ea642",
+      "filament_count": 273
+    }
+  ]
 }

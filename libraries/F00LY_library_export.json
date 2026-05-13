@@ -1,0 +1,3010 @@
+{
+    "Filaments": [
+        {
+            "Brand": "Bambu",
+            "Color": "#942f17",
+            "Name": "",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{1a54454c-3c72-4b88-afa6-52248b07c852}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#aaaaff",
+            "Name": "",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.6,
+            "Type": "PLA",
+            "uuid": "{7fb4d0ea-a3ce-41f6-a03d-a8c136b77626}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#76cd26",
+            "Name": "Apple Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5.2,
+            "Type": "PLA",
+            "uuid": "{f6127ce6-0a97-40b0-a489-6f359cc8a59c}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#39b9db",
+            "Name": "Aqua Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{a3b6d99c-42e8-7e7e-c1ea-a4ec42153f46}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#5aabb1",
+            "Name": "Arctic Teal",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{dde105c0-87fb-23e2-ac30-18b6149832a0}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#aa6f3e",
+            "Name": "Army Beige",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{050df360-7d04-4bb3-2c76-2ff4850e0ff0}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#aa6f3e",
+            "Name": "Army Beige",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.8,
+            "Type": "PLA",
+            "uuid": "{23b32ffe-fc9d-0a70-f385-64bbaab674ec}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#062b4d",
+            "Name": "Army Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{9f5a208f-830d-4e41-19cb-e8ac862a7f1b}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#724e3d",
+            "Name": "Army Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{40dc39be-7d96-61cd-2781-46aad2c785d6}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#515234",
+            "Name": "Army Dark Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.8,
+            "Type": "PLA",
+            "uuid": "{eeb7c2ce-9910-492f-d47d-3dd86a004efb}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#525234",
+            "Name": "Army Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{1ad38383-2426-48c0-941e-63c05d2e43c6}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#665a28",
+            "Name": "Army Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{7f7e43b2-2c23-9f7b-9f25-2b3a74a47833}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#a78403",
+            "Name": "Army Light Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{ac267a14-d78e-4039-d603-a5bda40c10fc}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#ac1a17",
+            "Name": "Army Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{3e501d45-a25a-f311-d311-bc7f1f86cea0}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#9b9ea0",
+            "Name": "Ash Gray",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{12536dfb-5f35-4c55-a97d-58cd4d310c9c}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#0066d9",
+            "Name": "Azure Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{c6192352-f680-1fb2-18f3-fb8e91111ba8}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#00ae42",
+            "Name": "Bambu Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.2,
+            "Type": "PLA",
+            "uuid": "{27980c47-9eda-42c0-a96c-c608d6035071}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#00ae42",
+            "Name": "BambuLab Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{23a3aa5b-7c28-4688-a783-d299cbb8623a}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#ffffc7",
+            "Name": "Beige",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 6.3,
+            "Type": "PLA",
+            "uuid": "{a26feec1-858b-4b98-ba2a-9fc377f0f237}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#e7ceb5",
+            "Name": "Beige",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{0e78ff37-53fa-40b4-a752-7fd38f38f142}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#edffd1",
+            "Name": "Beige",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.9,
+            "Type": "PLA",
+            "uuid": "{ecdd65f2-2eec-4904-9d92-32d418cd644b}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#c6ad74",
+            "Name": "Beige",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{ad10bf8e-91fc-a96f-7947-5ba679425019}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#0d110e",
+            "Name": "Black",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{15749291-2e4b-4b7d-b3af-1fbb465720ec}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#0c0e0c",
+            "Name": "Black",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{5cabb9f3-cf11-af43-3a3f-effe9ce40104}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#080a0d",
+            "Name": "Black",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{4fdb74ec-692a-736b-12ae-878c5669237f}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#181718",
+            "Name": "Black",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{dd0ffdb8-c9c6-4b82-9d12-a0e0b12e497d}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#000000",
+            "Name": "Black",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{43eb13d1-f422-4d84-9bce-37a0e10a2158}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#000000",
+            "Name": "Black",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{40e7e873-14ce-45b9-9201-62f0a81e4007}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#3edbdb",
+            "Name": "Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.6,
+            "Type": "PLA",
+            "uuid": "{8263b965-4257-4d70-9848-532fad53aa2e}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#00307e",
+            "Name": "Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{4a594f22-4980-c5f3-3b8a-17f4df94b5b8}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#00358e",
+            "Name": "Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{766f745e-c390-4c9d-8653-b16db19a1228}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#1b6397",
+            "Name": "Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{88243e82-9065-4a02-b321-8765b1b987be}"
+        },
+        {
+            "Brand": "Sunlu Matte",
+            "Color": "#006fd1",
+            "Name": "Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{b34d5392-24b7-427d-8f5f-7d1d63d16d5e}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#003776",
+            "Name": "Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{2e0650f6-85f2-b76f-bab1-bf8cfb77db7b}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#033877",
+            "Name": "Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.6,
+            "Type": "PLA",
+            "uuid": "{c7ad8426-aa99-455c-adb4-d5ae39dceacf}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#4c5f71",
+            "Name": "Blue Gray",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.6,
+            "Type": "PLA",
+            "uuid": "{d8613aaf-41c3-4b82-a885-402554966333}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#00272f",
+            "Name": "Blue-Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{4ef9fc6c-763a-0a24-b375-17e67f7da53c}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#ffff89",
+            "Name": "Bright Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.3,
+            "Type": "PLA",
+            "uuid": "{741de11f-38bb-467a-ae0e-b70e7d02393d}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#847d48",
+            "Name": "Bronze",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{e42cbb55-4ad5-46b9-8423-a36ae4388637}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#55331a",
+            "Name": "Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.8,
+            "Type": "PLA",
+            "uuid": "{ed0faadb-5418-04e8-0742-8311dc4709e2}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#782213",
+            "Name": "Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{f602edb7-09ab-4da1-95b5-7bf205b09f14}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#4f2e1e",
+            "Name": "Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{010f2372-9f84-af0b-205e-fefc4709d43a}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#785c50",
+            "Name": "Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.6,
+            "Type": "PLA",
+            "uuid": "{04d661b2-97c9-4d11-8644-ad495ed5d004}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#9d432c",
+            "Name": "Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{17ea47fa-6eb6-4109-911c-ea608f35cc85}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#9d432c",
+            "Name": "Brown (Bambu Hex)",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{8a4f06ac-e844-47e4-95b4-cf6ff199f895}"
+        },
+        {
+            "Brand": "Hatchbox",
+            "Color": "#2f5b60",
+            "Name": "Burnt Titanium",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{31338785-277f-4325-b8a8-7993da7f2872}"
+        },
+        {
+            "Brand": "Flashforge",
+            "Color": "#2f5b60",
+            "Name": "Burnt Titanium",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{022963bf-8b6b-460e-a5b7-0819f7b1ec7e}"
+        },
+        {
+            "Brand": "CookieCAD",
+            "Color": "#ff0000",
+            "Name": "Candy Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{6931864c-e906-4951-a940-504a14bcdb36}"
+        },
+        {
+            "Brand": "IIID Max",
+            "Color": "#a92a30",
+            "Name": "Candy Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{860c35d4-e623-4306-8843-08fc8d4a48fa}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#383939",
+            "Name": "Carbon Fiber Black",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.1,
+            "Type": "PLA",
+            "uuid": "{96ff9269-8337-4fe4-954b-3b7e24a4d8d3}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#4c4e52",
+            "Name": "Cement Gray",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{294c6f64-0119-4d57-b887-c47421e0ead7}"
+        },
+        {
+            "Brand": "Polylite",
+            "Color": "#cac3af",
+            "Name": "Champagne",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{f4551c17-d976-419e-b882-db23e081c79a}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#000000",
+            "Name": "Charcoal",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{2ef999b6-b4be-4d9b-9b4b-e731ae6e3ad5}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#1c1c1c",
+            "Name": "Charcoal Black",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{2590d566-07e4-4828-9c13-4d6b39192c71}"
+        },
+        {
+            "Brand": "Chrominal",
+            "Color": "#5a4138",
+            "Name": "Chestnut Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{bfeef30d-997e-4cb6-890d-890463ae8985}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#57361c",
+            "Name": "Chocolate",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PLA",
+            "uuid": "{cca09c72-82b2-4fe1-afe2-8e5432a65930}"
+        },
+        {
+            "Brand": "HueForge",
+            "Color": "#412819",
+            "Name": "Chocolate 1.3",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{1c49528c-4ed5-4fb6-ac05-8d2e4a801a3a}"
+        },
+        {
+            "Brand": "Polymaker",
+            "Color": "#ffffd4",
+            "Name": "Christmas Gold",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{c4976e9d-02f0-4755-b30f-0f4948d83c68}"
+        },
+        {
+            "Brand": "Polymaker",
+            "Color": "#59743a",
+            "Name": "Christmas Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{be845153-2c97-4026-b27c-2139e5e2d1b4}"
+        },
+        {
+            "Brand": "Polylite",
+            "Color": "#aa0000",
+            "Name": "Christmas Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.4,
+            "Type": "PLA",
+            "uuid": "{6af8d5ac-6c76-4eb2-8a7a-acfc00e0b767}"
+        },
+        {
+            "Brand": "Bambu Metal",
+            "Color": "#39699e",
+            "Name": "Cobalt Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{4dd45194-942d-4729-8dc0-891e37788256}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#977130",
+            "Name": "Coffee",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{b9a5535c-e1bb-435c-8c00-acdafd3bf516}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#eaecf5",
+            "Name": "Cold White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{c4914afd-ebd5-0d4a-40f1-2d7206a45b6a}"
+        },
+        {
+            "Brand": "Polylite",
+            "Color": "#006300",
+            "Name": "Comet Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.4,
+            "Type": "PLA",
+            "uuid": "{e248a1f7-f2d0-4983-873d-a54fac54d329}"
+        },
+        {
+            "Brand": "Bambu Metal",
+            "Color": "#aa6443",
+            "Name": "Copper Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{ea6afab7-83a4-4994-8ec1-3a22230b33fd}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#e6dddb",
+            "Name": "Cotton White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{3d05f050-41bc-4a48-72ab-ba1fb5a77c26}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#e5c8a2",
+            "Name": "Cream",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.4,
+            "Type": "PLA",
+            "uuid": "{669096ae-c998-9c7e-490b-2c9e15e4b4d9}"
+        },
+        {
+            "Brand": "Polymaker",
+            "Color": "#ffffce",
+            "Name": "Cream",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.4,
+            "Type": "PLA",
+            "uuid": "{d525b910-b01f-4442-a581-43729b534a98}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#1cb0ff",
+            "Name": "Cyan",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.2,
+            "Type": "PLA",
+            "uuid": "{67922a56-4d8c-4b03-b4f5-892df5601c2a}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#0086d6",
+            "Name": "Cyan",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.9,
+            "Type": "PLA",
+            "uuid": "{8caf0114-8e6b-41af-9e87-f1bfb12e6ea6}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#041b3d",
+            "Name": "Dark Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{1d3f1c95-1eb2-57a4-b2e5-12a31688fd4f}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#1c254c",
+            "Name": "Dark Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{ba5650f5-385d-4ef4-a220-8ec1db440818}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#7d6556",
+            "Name": "Dark Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{c5f5bac6-3516-48d0-b32b-eb1859ea20f0}"
+        },
+        {
+            "Brand": "HueForge",
+            "Color": "#434a4f",
+            "Name": "Dark Gray 1.3",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{c8d9a53a-f04a-4e59-9f00-e7e2fdec1aff}"
+        },
+        {
+            "Brand": "HueForge",
+            "Color": "#434a4f",
+            "Name": "Dark Gray 2.3",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{d08c0095-9a7c-4f03-9c37-e78fb0b8a0ed}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#292036",
+            "Name": "Dark Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{4a0ab498-21f9-dc06-c486-985edbde0566}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#bb3d43",
+            "Name": "Dark Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{b1978c3b-b1f6-4370-ac64-3760c889ba28}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#41273b",
+            "Name": "Decepticon Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.8,
+            "Type": "PLA",
+            "uuid": "{1c6b3683-d60b-44d1-92ce-40d14f0efbe1}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#623e2a",
+            "Name": "Earth Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{f3715882-65dd-3798-5ed5-807005598b83}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#253746",
+            "Name": "Fighter Jet Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{c9efdf12-a7a8-4b5c-9373-2c9242b97a35}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#b3d204",
+            "Name": "Flourescent Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 17,
+            "Type": "PLA",
+            "uuid": "{0ceabd26-9b8a-aea3-70a2-b50b774893d7}"
+        },
+        {
+            "Brand": "HueForge",
+            "Color": "#1f4629",
+            "Name": "Forest 1.3",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 7.9,
+            "Type": "PLA",
+            "uuid": "{56c8f78c-2aae-45c3-b1be-d26ef5410755}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#519f61",
+            "Name": "Forest Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{2b9b4e7b-4ee6-39bd-93e0-28176e6fb8b3}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#6f727e",
+            "Name": "Fossil Grey",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{6e006d8a-7788-94e5-fd32-42cdfcafb777}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#8dc8e8",
+            "Name": "GITD Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 9,
+            "Type": "PLA",
+            "uuid": "{2e06c656-914f-1d55-d487-746c625550d6}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#a1d884",
+            "Name": "GITD Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 10.5,
+            "Type": "PLA",
+            "uuid": "{447e3a6d-6b46-261c-12fe-cf1d788a79e2}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#fc9f56",
+            "Name": "GITD Orange",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 10.5,
+            "Type": "PLA",
+            "uuid": "{de83ae3a-f684-40e1-17ce-2a4430f1d189}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#e4bd68",
+            "Name": "Gold",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.8,
+            "Type": "PLA",
+            "uuid": "{c25f0701-4fbf-4f9d-bd73-f93246262f81}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#61c680",
+            "Name": "Grass Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{e1852fac-b180-40d6-967d-c6ea118bebb9}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#8e9089",
+            "Name": "Gray",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{03b7beb6-5f62-4852-a70a-a0af973bc9b7}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#658697",
+            "Name": "Gray Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.8,
+            "Type": "PLA",
+            "uuid": "{a4960362-d5c8-4a77-86be-c728eb6d6813}"
+        },
+        {
+            "Brand": "Polylite",
+            "Color": "#819595",
+            "Name": "Gray v2",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 12,
+            "Type": "PLA",
+            "uuid": "{254d3905-9219-493f-afd8-91e3d909c3f8}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#519f62",
+            "Name": "Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{6a66802d-ec1f-4f18-90e8-62e0c41d86ee}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#3cdac8",
+            "Name": "Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4.3,
+            "Type": "PLA",
+            "uuid": "{9e14d746-9226-45d5-8d79-9e0e75733516}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#003b3b",
+            "Name": "Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{beebebca-114a-49ad-a581-c72a369ccaa4}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#00f52c",
+            "Name": "Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{01260000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#178d4a",
+            "Name": "Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{622bfd9e-513d-1abd-6da6-ba283204f6cf}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#3c933f",
+            "Name": "Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.1,
+            "Type": "PLA",
+            "uuid": "{42a7845f-cec8-46ac-8888-5edd8be90a90}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#06924d",
+            "Name": "Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{faff44e8-1d7c-0b17-2b07-12c9f35eacc7}"
+        },
+        {
+            "Brand": "Sunlu Matte",
+            "Color": "#35c376",
+            "Name": "Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{39b0ca29-90b7-463e-bb75-4d3c9376b01d}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#777b78",
+            "Name": "Grey",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{ea23f51a-9e11-45b0-935e-7be2a6dcebe8}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#8c9099",
+            "Name": "Grey",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{192b301a-d51e-c829-6373-741f8befdba9}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#73767d",
+            "Name": "Grey",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{5f02656e-88b7-feb9-af35-aa957f7e9667}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#f3d538",
+            "Name": "Highlight Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{22feefe5-30fd-4a64-83dc-f79a1e5dc77a}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#8bd5ee",
+            "Name": "Ice Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{c299edae-d1d5-44c4-8a00-d83b292bf6dc}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#482960",
+            "Name": "Indigo Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.1,
+            "Type": "PLA",
+            "uuid": "{50cd7484-ddae-4e25-84fa-21b820ecdb99}"
+        },
+        {
+            "Brand": "Bambu Metal",
+            "Color": "#b39b84",
+            "Name": "Iridium Gold",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{4c96f198-8559-4419-baaf-66d99d823b0d}"
+        },
+        {
+            "Brand": "Bambu Metal",
+            "Color": "#43403d",
+            "Name": "Iron Grey",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{bae272a6-2c8e-4451-99e8-93a0d933a3c3}"
+        },
+        {
+            "Brand": "Paramount 3D",
+            "Color": "#781f1c",
+            "Name": "Iron Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{5667fb6a-3f73-487c-ba2e-e1277db07d49}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#ffffff",
+            "Name": "Ivory White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{30b2332c-2baf-4802-a922-fb2d3e976a7b}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#ffffff",
+            "Name": "Jade White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{29d0549f-7950-4e60-b9e5-aa081f71d61b}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#ffffff",
+            "Name": "Jade White Refill",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{eff650bc-3a27-45ca-b2c6-a78adce7b957}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#fffff7",
+            "Name": "Jade White Refill 2",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5.9,
+            "Type": "PLA",
+            "uuid": "{f09cdba4-4b2a-46e5-a011-b76f3df76bc9}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#ce4f4e",
+            "Name": "Jeans Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{6898aa2d-1b4c-426b-8b4b-d14b3947ae31}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#446b20",
+            "Name": "Jungle Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{562de39f-257a-b4f7-c51c-986ef2d18b00}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#d3b7a7",
+            "Name": "Latte Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{39209772-ef43-4ef1-9ee9-82d0aaa64b9b}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#de1619",
+            "Name": "Lava Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{367d11d4-7f3a-d67a-3268-aa9b4ddfe261}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#8a68b5",
+            "Name": "Lavender Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{6e324b4e-e228-58c0-5353-05f0146ddb9a}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#ffe17f",
+            "Name": "Lemon Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{2111fe2c-3829-45c1-970b-dcf50559728b}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#f1d335",
+            "Name": "Lemon Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{281d173f-205a-c3c0-7890-c1e297cd64a6}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#5ec4ea",
+            "Name": "Light Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.8,
+            "Type": "PLA",
+            "uuid": "{cadb7176-5e10-4d16-bfae-1e2f03789488}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#72aecb",
+            "Name": "Light Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{79f9eb5c-8b51-6d1e-e7ad-319bbd0f356e}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#a6896c",
+            "Name": "Light Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{5421d42d-97f3-4dcd-9e54-bde8feb27763}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#74777d",
+            "Name": "Light Gray",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{26cf292a-ecd5-482a-a1a3-637ee7416201}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#74777d",
+            "Name": "Light Gray",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{12e624d4-4aa8-406c-86ee-4d53b6717be5}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#bcd69b",
+            "Name": "Light Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.1,
+            "Type": "PLA",
+            "uuid": "{b74fd734-c561-428c-b4f3-b12062904489}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#bbd39b",
+            "Name": "Light Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{6b9a1696-28ce-c447-a77c-0589425aa560}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#bcd69b",
+            "Name": "Light Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.2,
+            "Type": "PLA",
+            "uuid": "{fa8bc033-09c1-44f9-80f1-7a77043da13f}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#dab2b6",
+            "Name": "Light Pink",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.2,
+            "Type": "PLA",
+            "uuid": "{d8896067-7970-48c8-8382-f47de79382fa}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#cc4c4b",
+            "Name": "Light Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{a3c8c577-5b44-2a8f-42f8-4a66ee330d93}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#f4d563",
+            "Name": "Light Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.1,
+            "Type": "PLA",
+            "uuid": "{540de9f5-0bcc-4146-890b-df39e1ba4504}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#f3d561",
+            "Name": "Light Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{c4be28b4-1d62-41d4-9a5b-53a70d30181c}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#ae96d4",
+            "Name": "Lilac Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{f05dafbe-15f8-4841-82f5-a8ea12d4a150}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#d0e740",
+            "Name": "Lime Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{74e47a7b-733b-9946-b7de-d404a23b7d3a}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#dede00",
+            "Name": "Lime Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{7436029b-8b28-57f5-ebd9-907045a4cdad}"
+        },
+        {
+            "Brand": "Polymaker",
+            "Color": "#cf1c48",
+            "Name": "Magenta",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{118be0fd-6fd2-4744-8945-957c526c11b8}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#e42363",
+            "Name": "Magenta",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{3a18158c-f246-f2ed-2758-4788c0592f86}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#d21a5d",
+            "Name": "Magenta",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.2,
+            "Type": "PLA",
+            "uuid": "{eca059e6-5728-4185-9aa3-6f927377319c}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#f2306e",
+            "Name": "Magenta",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{addcc673-7fd5-7344-fc9f-e2c32b1739d5}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#f99963",
+            "Name": "Mandarin Orange",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{0aa4cfd9-e8d6-494d-bea6-db65185fa0c9}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#0078bf",
+            "Name": "Marine Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{1f2f93c3-702f-4637-9578-7646996458cd}"
+        },
+        {
+            "Brand": "Flashforge",
+            "Color": "#47002b",
+            "Name": "Marsala",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.9,
+            "Type": "PLA",
+            "uuid": "{0665f969-d11a-4fa6-b912-ecfd8d71824b}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#2d3449",
+            "Name": "Metallic Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{89ce2b81-a730-977d-63bd-e8870ca197f5}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#8d4c2d",
+            "Name": "Metallic Bronze",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{f75aac06-4cb2-8861-e032-99e371d07722}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#a66301",
+            "Name": "Metallic Gold",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{09b3356b-c5aa-4c2e-c6e5-05eeab02afd8}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#b620c5",
+            "Name": "Metallic Magenta",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{eb675dc3-649b-abb3-ae4d-469f4f6d573a}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#5b014f",
+            "Name": "Metallic Magenta",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.3,
+            "Type": "PLA",
+            "uuid": "{b17130b9-fd77-4622-bef1-2129a912de14}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#c53b20",
+            "Name": "Metallic Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{3480a11b-90f2-35a5-211e-86bc122d9625}"
+        },
+        {
+            "Brand": "Polymaker Pro",
+            "Color": "#5e020d",
+            "Name": "Metallic Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.7,
+            "Type": "PLA",
+            "uuid": "{406cd480-0cdd-415b-aaf3-989977370742}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#8a8d95",
+            "Name": "Metallic Silver",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{0b4d717c-2118-ba47-d1b0-e9afc826a3be}"
+        },
+        {
+            "Brand": "Zyltech",
+            "Color": "#ffffff",
+            "Name": "Milky White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 9,
+            "Type": "PLA",
+            "uuid": "{3b1959be-3dbc-4fbc-baa3-7c8c5562d885}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#3f8e43",
+            "Name": "Mistletoe Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.1,
+            "Type": "PLA",
+            "uuid": "{75c7a964-6476-483c-bd20-4161d547f30e}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#75afcd",
+            "Name": "Morning Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.9,
+            "Type": "PLA",
+            "uuid": "{666bf0b8-80f0-46fb-b8e0-10c1afe5155c}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#4e6a84",
+            "Name": "Muted Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{091a19e2-af03-d852-3b6c-cf2219652712}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#656d60",
+            "Name": "Muted Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{8cd3e458-75f6-661c-30c6-7836fecab6c1}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#7c5577",
+            "Name": "Muted Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{4d1e15ae-bdc8-7d25-be68-9e7f7aae762c}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#db3e14",
+            "Name": "Muted Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{ee1a8bc3-075f-a1b7-c24e-695c946f2fa3}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#afa198",
+            "Name": "Muted White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{0af5e76e-cc4a-d63e-46e3-6d733ba3c9b1}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#e8e6d0",
+            "Name": "Natural",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 31.6,
+            "Type": "PLA",
+            "uuid": "{8bcb2c01-32eb-81f3-382d-0182d6acafed}"
+        },
+        {
+            "Brand": "HueForge",
+            "Color": "#0e2070",
+            "Name": "Navy Blue 1.3",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{02b36e2f-ae0c-45d1-b5c0-b623b188688a}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#a88704",
+            "Name": "Olive Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.9,
+            "Type": "PLA",
+            "uuid": "{be75b920-b76c-4594-b9a2-207fbe7fc518}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#857c00",
+            "Name": "Olive Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{5cebff49-7b75-29f5-8a17-19ada5fb351d}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#857f03",
+            "Name": "Olive green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{eb334278-dc9f-4948-bda9-e541dec5de61}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#ff6a13",
+            "Name": "Orange",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 7,
+            "Type": "PLA",
+            "uuid": "{7ef6136d-ae6c-47fa-96df-9a130cfe5855}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#f67405",
+            "Name": "Orange",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 6.2,
+            "Type": "PLA",
+            "uuid": "{a51914a4-ed86-2d4a-d24c-adf6e6b78394}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#c26208",
+            "Name": "Orange",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 7.1,
+            "Type": "PLA",
+            "uuid": "{59a9b497-0578-4cce-b682-a58fb78f6a48}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#ec6a01",
+            "Name": "Orange",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 7.5,
+            "Type": "PLA",
+            "uuid": "{e3215b1a-8cfa-5638-90e9-060e3a462044}"
+        },
+        {
+            "Brand": "Bambu Metal",
+            "Color": "#1d7c6a",
+            "Name": "Oxide Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{a3f651b0-695b-48be-89ae-9e653d73ace1}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#f5cf6f",
+            "Name": "Pastel Banana",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{c1157320-ebb8-cf96-69d9-34935558b71c}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#dabcc8",
+            "Name": "Pastel Candy",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{f67644ef-d5b5-2399-ef11-48253ad5c8d0}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#95c5d3",
+            "Name": "Pastel Ice",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{a988887a-dfbe-3f23-fcc3-2fafabb38bdf}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#bec9a5",
+            "Name": "Pastel Mint",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{09005127-2882-4025-10ea-7278b84b572e}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#f2b67a",
+            "Name": "Pastel Peach",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{05996e14-a137-12dd-9321-8cc318fee472}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#cca897",
+            "Name": "Pastel Peanut",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{ac2ce085-0510-f999-ff05-2eb54747aff5}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#e93a3f",
+            "Name": "Pastel Watermelon",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{5e2901ff-d799-03cd-fda2-4413bb505170}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#f2b67a",
+            "Name": "Peach",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.3,
+            "Type": "PLA",
+            "uuid": "{8910e707-37f8-43ed-be2a-7361e65fce38}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#304301",
+            "Name": "Pine Green",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{60910414-7f48-4ee8-b685-ff24de801797}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#f79dbc",
+            "Name": "Pink",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.2,
+            "Type": "PLA",
+            "uuid": "{eff24d6b-8496-4df0-bd03-9aaf3e5bf72e}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#ff5869",
+            "Name": "Pink",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{d0052b88-70f8-488f-b071-0d62f887b51d}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#f79dbc",
+            "Name": "Pink",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{ce846d74-8de3-4948-b66c-1d6c7700c2d5}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#ed92b0",
+            "Name": "Pink",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{ff570485-098d-7100-19f5-1d97dceccb21}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#ee9bb5",
+            "Name": "Pink",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{01d6f4ef-945c-3a4a-e809-476efc268324}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#2fa5ae",
+            "Name": "Polymaker Teal",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{4b320858-2023-bb2a-8cd5-74515f56a4f3}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#4cc0c7",
+            "Name": "Polymaker Teal",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{07a68ca4-4039-b5a1-866d-6bc49766ccaa}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#856fdc",
+            "Name": "Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{01190000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#6f4ab2",
+            "Name": "Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{fe7efbb9-f425-4eee-8449-40b92416d0a2}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#6c47b2",
+            "Name": "Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{adb8d7cc-85b4-7435-3cbb-0da4620dc5a6}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#6843b1",
+            "Name": "Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{f8fba333-afbb-c45d-2661-dbf1b8419ac7}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#8c69b5",
+            "Name": "Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{8fd8a0b5-ba2e-48d4-9688-b8f7ef1267a3}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#5e43b7",
+            "Name": "Purple",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.3,
+            "Type": "PLA",
+            "uuid": "{9942f40a-33cd-4969-b6e1-34017f179312}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#eb3b41",
+            "Name": "Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{9850335b-43f7-4cd9-aa7d-bdfd0e4d954e}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#e72f1d",
+            "Name": "Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{65a780bb-6c34-41da-ad5d-d4465443673c}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#e9301e",
+            "Name": "Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4.8,
+            "Type": "PLA",
+            "uuid": "{6a068245-369c-43c0-a9f7-b3fb81c108eb}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#e62216",
+            "Name": "Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{395a6e2d-e851-02f4-d2e1-9ec4c961b93d}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#c00d1e",
+            "Name": "Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{4fb13a86-6187-4300-95f2-ac2c877aae5e}"
+        },
+        {
+            "Brand": "Sunlu Matte",
+            "Color": "#ee465c",
+            "Name": "Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{80b77bcf-bb98-4ffa-b856-56cae28449c6}"
+        },
+        {
+            "Brand": "Flashforge",
+            "Color": "#b40008",
+            "Name": "Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 6.3,
+            "Type": "PLA",
+            "uuid": "{4b724d55-5289-487f-994c-416c604277d7}"
+        },
+        {
+            "Brand": "Prusament",
+            "Color": "#2b54ae",
+            "Name": "Royal Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{b372b380-1883-46f1-a025-b1ff0df99521}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#533426",
+            "Name": "Royal Copper",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.4,
+            "Type": "PLA",
+            "uuid": "{73d1e025-a23e-4a34-8619-71b548d4a384}"
+        },
+        {
+            "Brand": "Flashforge",
+            "Color": "#810006",
+            "Name": "Ruby Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.3,
+            "Type": "PLA",
+            "uuid": "{97019587-9f77-4c43-b02f-19e9a9576c1b}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#ffb7c5",
+            "Name": "Sakura",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5.5,
+            "Type": "PLA",
+            "uuid": "{7505faa2-416e-4a5d-ac9f-667c5419b868}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#e4bdd0",
+            "Name": "Sakura Pink",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{9881ec64-fc1f-4031-82c0-13e5e968e223}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#e0a8bb",
+            "Name": "Sakura Pink",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.8,
+            "Type": "PLA",
+            "uuid": "{c977fe86-1e73-f75c-c0c2-15ea17c08366}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#005aa2",
+            "Name": "Sapphire Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{8e6ecffb-cd29-b833-5e1d-66f9b8923d20}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#f0be02",
+            "Name": "Savannah Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.5,
+            "Type": "PLA",
+            "uuid": "{98a1197e-f86f-3585-41ed-6039369d09c3}"
+        },
+        {
+            "Brand": "BambuLab Matte",
+            "Color": "#de4343",
+            "Name": "Scarlet Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{542ef79f-7757-47df-866d-fdfcea13c8d2}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#f06188",
+            "Name": "Scarlet Symphony",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 13,
+            "Type": "PLA",
+            "uuid": "{156bbb19-2205-d19f-1ced-9d519270bd38}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#a4b1b4",
+            "Name": "Second to None Silver",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5.5,
+            "Type": "PLA",
+            "uuid": "{a2022155-c810-029e-6ed6-22d5d68ae042}"
+        },
+        {
+            "Brand": "Bambu",
+            "Color": "#f4a925",
+            "Name": "Silk Gold",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.4,
+            "Type": "PLA",
+            "uuid": "{ed30061b-fc66-44c5-945b-369e2957d31b}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#a6a9aa",
+            "Name": "Silver",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{940c9f5c-e618-4a2a-b11b-f1de28e7895e}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#d0b5a4",
+            "Name": "Skin",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.7,
+            "Type": "PLA",
+            "uuid": "{b847da79-3566-40b7-a81c-42eef0b942a2}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#63646b",
+            "Name": "Space Gray",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.1,
+            "Type": "PLA",
+            "uuid": "{eab6b82a-a2d4-458e-b3a9-62a2ef88a536}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#b17137",
+            "Name": "Starlight Jupiter",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{58d74320-9fbf-14bd-b2ec-215df451da2c}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#962e31",
+            "Name": "Starlight Mars",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.1,
+            "Type": "PLA",
+            "uuid": "{eccce5d1-640f-4798-82c2-7f0fabec59dd}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#c3c6e2",
+            "Name": "Starlight Mercury",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{948db163-a45a-0357-f63b-3a9bb1e0c42d}"
+        },
+        {
+            "Brand": "Polymaker",
+            "Color": "#aaaaff",
+            "Name": "Starlight Nebula",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{82d2f776-474b-4551-99f5-2a732ed37956}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#1284a2",
+            "Name": "Starlight Neptune",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{12f9523e-c622-4f1a-7c72-72391ece7143}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#616469",
+            "Name": "Steel Grey",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{d23c2267-0632-8fff-8132-3c2e0bcceb8c}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#40719a",
+            "Name": "Stone Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{9a71c2a7-8707-9eb6-95a4-04f7a85669eb}"
+        },
+        {
+            "Brand": "Polymaker",
+            "Color": "#0c669d",
+            "Name": "Stone Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{c91476c0-7a1a-4853-b148-fb521fe03e47}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#f78e0e",
+            "Name": "Sunrise Orange",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2,
+            "Type": "PLA",
+            "uuid": "{414bcd7b-7581-8080-b3cc-a260c8852693}"
+        },
+        {
+            "Brand": "Polymaker Polylite",
+            "Color": "#9bfff2",
+            "Name": "TD-1 Aqua Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.6,
+            "Type": "PLA",
+            "uuid": "{33110d9d-fe85-4b32-b3a2-ccb222f77cb0}"
+        },
+        {
+            "Brand": "Bambu",
+            "Color": "#343434",
+            "Name": "TD-1 Ash Grey",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{2074e8d9-adbb-4ae3-8135-5e20e17b917d}"
+        },
+        {
+            "Brand": "Polymaker Polylite",
+            "Color": "#0b88ff",
+            "Name": "TD-1 Azure Blue",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3,
+            "Type": "PLA",
+            "uuid": "{0e789715-3caa-4ff2-916d-cfe380435864}"
+        },
+        {
+            "Brand": "Bambu Wood",
+            "Color": "#2a280d",
+            "Name": "TD-1 Black Walnut",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{121c223f-be28-41c9-866a-d3046dac076c}"
+        },
+        {
+            "Brand": "Bambu Wood",
+            "Color": "#494119",
+            "Name": "TD-1 Classic Birch",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.4,
+            "Type": "PLA",
+            "uuid": "{ba2a800a-ad14-4b64-b17e-32753c6ce912}"
+        },
+        {
+            "Brand": "Bambu Wood",
+            "Color": "#995018",
+            "Name": "TD-1 Clay Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.4,
+            "Type": "PLA",
+            "uuid": "{01891535-673d-4a21-95f1-445eca1f8208}"
+        },
+        {
+            "Brand": "Polymaker Panchroma",
+            "Color": "#4029b4",
+            "Name": "TD-1 Electric Indigo",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.2,
+            "Type": "PLA",
+            "uuid": "{43e4d412-26ee-4e29-b246-b62d02704063}"
+        },
+        {
+            "Brand": "Bambu Wood",
+            "Color": "#ffa833",
+            "Name": "TD-1 Ochre Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.4,
+            "Type": "PLA",
+            "uuid": "{78329aab-293f-4b11-9d5b-5672a899d20a}"
+        },
+        {
+            "Brand": "Polymaker",
+            "Color": "#ffffff",
+            "Name": "TD-1 Polysonic White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 7.7,
+            "Type": "PLA",
+            "uuid": "{16cfd427-301f-46d5-be62-8c1a1b8cb9d1}"
+        },
+        {
+            "Brand": "Flashforge",
+            "Color": "#b90009",
+            "Name": "TD-1 Red (Black Spool)",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{e2fd895f-e64b-4540-80f9-6d8a6bba520a}"
+        },
+        {
+            "Brand": "Bambu Wood",
+            "Color": "#2b0000",
+            "Name": "TD-1 Rosewood",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.6,
+            "Type": "PLA",
+            "uuid": "{609d61da-8155-409e-85bc-51400a1055c1}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#b17137",
+            "Name": "TD-1 Starlight Jupiter",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.6,
+            "Type": "PLA",
+            "uuid": "{d84a9e26-526f-41e3-a9cf-876442202f3a}"
+        },
+        {
+            "Brand": "Polymaker",
+            "Color": "#b5020f",
+            "Name": "TD-1 Starlight Mars",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.4,
+            "Type": "PLA",
+            "uuid": "{32ea5041-4205-4bc9-915b-b35d75459a60}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#c3c6e2",
+            "Name": "TD-1 Starlight Mercury",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4.7,
+            "Type": "PLA",
+            "uuid": "{b8794d7d-ea92-405b-89ad-2748fbf185ff}"
+        },
+        {
+            "Brand": "Polymaker",
+            "Color": "#aaaaff",
+            "Name": "TD-1 Starlight Nebula",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.4,
+            "Type": "PLA",
+            "uuid": "{f28d5819-611f-481b-beb8-0c6e20fa3b79}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#1284a2",
+            "Name": "TD-1 Starlight Neptune",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.1,
+            "Type": "PLA",
+            "uuid": "{6d261ed1-d5fa-47df-b1ab-035bce55695a}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#aaaaff",
+            "Name": "TD-1 Starlight Twilight",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 2.6,
+            "Type": "PLA",
+            "uuid": "{a2fa82da-b57b-460b-a8a9-54fd0ac04af7}"
+        },
+        {
+            "Brand": "Bambu Wood",
+            "Color": "#e5f8bf",
+            "Name": "TD-1 White Oak",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.1,
+            "Type": "PLA",
+            "uuid": "{a70c897f-b09a-4045-8c45-9c40ebffcfd2}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#7ee2a0",
+            "Name": "Temp Green-Lime (Cold)",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 7,
+            "Type": "PLA",
+            "uuid": "{de1db32d-4b1c-cf79-835f-932ee8df4c2d}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#dbde7b",
+            "Name": "Temp Green-Lime (Hot)",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{e4f8df07-ba91-5501-2ba2-a011fcd3638d}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#4734aa",
+            "Name": "Temp Purple-Pink-Translucent (Cold)",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4,
+            "Type": "PLA",
+            "uuid": "{867f2b7a-435a-bf75-3302-7d10f704ff2f}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#e3d4cd",
+            "Name": "Temp Purple-Pink-Translucent (Hot)",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 13,
+            "Type": "PLA",
+            "uuid": "{ef7a81cd-e6fd-4063-5c12-b6efca6efea5}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#f36fa9",
+            "Name": "Temp Purple-Pink-Translucent (Med)",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 10,
+            "Type": "PLA",
+            "uuid": "{b8365f3d-3ceb-f9a3-607d-5daefc915521}"
+        },
+        {
+            "Brand": "Bambu",
+            "Color": "#942f17",
+            "Name": "Terracota",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{c2f1375e-bac0-4740-878e-3b0cae8d3978}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#08abfb",
+            "Name": "Translucent Cyan",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 8,
+            "Type": "PLA",
+            "uuid": "{0f0c1725-9b34-4f62-8628-e47af4dc872a}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#08abfb",
+            "Name": "Translucent Cyan",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5.3,
+            "Type": "PLA",
+            "uuid": "{b3f65622-efef-4066-b1ab-a1309c4cfd30}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#9199a4",
+            "Name": "Translucent Grey",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 6.1,
+            "Type": "PLA",
+            "uuid": "{831f810a-d590-4618-b798-f9a644363ff9}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#d93b90",
+            "Name": "Translucent Magenta",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5.5,
+            "Type": "PLA",
+            "uuid": "{08ff5ec9-f410-4f2a-8a78-822afefa98ee}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#d93b90",
+            "Name": "Translucent Magenta",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5.5,
+            "Type": "PLA",
+            "uuid": "{294f7bbd-07e7-4589-b587-da728d69f1e7}"
+        },
+        {
+            "Brand": "Panchroma",
+            "Color": "#fff63e",
+            "Name": "Translucent Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 9,
+            "Type": "PLA",
+            "uuid": "{f9613349-49d4-42a0-b7ac-5ad248b448eb}"
+        },
+        {
+            "Brand": "Bambu Basic",
+            "Color": "#41e8d3",
+            "Name": "Turqoise",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.5,
+            "Type": "PLA",
+            "uuid": "{ec669adb-745c-422c-9947-d5d0ae0ff83f}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#ffb46e",
+            "Name": "UV Orange",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 14,
+            "Type": "PLA",
+            "uuid": "{f1920262-dae3-4881-51a5-fc1ccb12b4bc}"
+        },
+        {
+            "Brand": "Sunlu Matte",
+            "Color": "#ffffff",
+            "Name": "White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{541fe59d-02ff-40d1-8040-5e4548010737}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#e6e1de",
+            "Name": "White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{77cd8cfd-140d-e122-5148-fe2ed4c4457b}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#e3e0db",
+            "Name": "White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4.4,
+            "Type": "PLA",
+            "uuid": "{f35070f5-ffa5-4657-ae9f-4c67e517f3b8}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#ffffff",
+            "Name": "White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 5.9,
+            "Type": "PLA",
+            "uuid": "{4097523d-486c-4723-ae88-e18dad0808e9}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#e2dedb",
+            "Name": "White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 4.6,
+            "Type": "PLA",
+            "uuid": "{1800e8df-9e84-7c9a-088d-ac7b98baf869}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#e6dede",
+            "Name": "White",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.7,
+            "Type": "PLA",
+            "uuid": "{40920887-e3d8-4afe-acad-a712a3e6ef19}"
+        },
+        {
+            "Brand": "HueForge",
+            "Color": "#ffffff",
+            "Name": "White 1.3",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 9,
+            "Type": "PLA",
+            "uuid": "{ec5137fe-ba02-436d-98a1-4b408d2cb96c}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#e0191e",
+            "Name": "Wine Red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1,
+            "Type": "PLA",
+            "uuid": "{2186d882-a9cd-c8a3-2cce-f5ae193c70da}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#af7643",
+            "Name": "Wood",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.1,
+            "Type": "PLA",
+            "uuid": "{b440214a-27df-4b1e-be00-67443183b96f}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#b1a169",
+            "Name": "Wood",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 1.9,
+            "Type": "PLA",
+            "uuid": "{5f9e631a-5a8c-4b92-80a6-967acdf57d57}"
+        },
+        {
+            "Brand": "PolyTerra",
+            "Color": "#ad7441",
+            "Name": "Wood Brown",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 0.3,
+            "Type": "PLA",
+            "uuid": "{fd2def6c-2f78-523c-690e-2ab845dbe8fb}"
+        },
+        {
+            "Brand": "Overture",
+            "Color": "#ffea00",
+            "Name": "Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 9.7,
+            "Type": "PLA",
+            "uuid": "{f693ad34-fbb4-481f-9679-ed11a6dadf07}"
+        },
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#fce300",
+            "Name": "Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 6,
+            "Type": "PLA",
+            "uuid": "{3d555b4e-0304-423a-b0b7-2a09bbaf8186}"
+        },
+        {
+            "Brand": "PolyLite Pro",
+            "Color": "#f7b300",
+            "Name": "Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 10.5,
+            "Type": "PLA",
+            "uuid": "{cf43fc6c-a57c-2c25-3a04-dd5fdfd607c4}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#f3b400",
+            "Name": "Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 10.5,
+            "Type": "PLA",
+            "uuid": "{adb2688a-7093-bb62-1d09-6946017d4be6}"
+        },
+        {
+            "Brand": "Overture Matte",
+            "Color": "#e4bb4c",
+            "Name": "Yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 3.6,
+            "Type": "PLA",
+            "uuid": "{a78be097-517a-473b-9a0e-dc86aea2ed32}"
+        },
+        {
+            "Brand": "Polylite",
+            "Color": "#ffff00",
+            "Name": "Yellow v2",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 14.3,
+            "Type": "PLA",
+            "uuid": "{d32464c3-9e23-43da-93ba-86f205820fb0}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#fd9886",
+            "Name": "pink",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 12,
+            "Type": "PLA",
+            "uuid": "{afe26e72-c7b4-49a9-9e71-bf9cdeb15ffc}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#fd3e3e",
+            "Name": "red",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 6.1,
+            "Type": "PLA",
+            "uuid": "{0223d85d-7c28-42b3-be79-033137908b05}"
+        },
+        {
+            "Brand": "Sunlu Meta",
+            "Color": "#f8ef99",
+            "Name": "yellow",
+            "Owned": true,
+            "Tags": [
+            ],
+            "Transmissivity": 6.4,
+            "Type": "PLA",
+            "uuid": "{92a27b6e-bdb5-4218-823a-f4e3d7aef06e}"
+        }
+    ],
+    "exported_at": "2026-05-13T06:25:51",
+    "format": "hueforge_personal_library",
+    "version": 1
+}
